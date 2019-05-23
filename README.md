@@ -10,7 +10,8 @@ Application accepts following parameters on command line
 * path to output file in JSON format
 
 If incorrect number or wrong parameters are provided, application should display some kind of help
-application should read data from input file and store result in output JSON file in following way
+
+Application should read data from input file and store result in output JSON file in following way
 * userName: value presented as the first parameter
 * printerName: value presented as the second parameter
 * data: content from the input file
