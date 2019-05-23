@@ -25,4 +25,5 @@ Application will print on stdout sum of letters (lower case ascii) stored in the
   * e: 2
   * i: 1
 ....
+
 Non-ascii characters are not considered
