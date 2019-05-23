@@ -77,7 +77,7 @@ def write_data_to_output(user_name, printer_name, output_file, data):
     """
 
     if len(output_file) < 6 or output_file[-5:] != ".json":
-        print("the file must contain \".json\" file extension")
+        print("the output file must contain \".json\" file extension")
         sys.exit(2)
 
     frequency = letter_freq(data)
