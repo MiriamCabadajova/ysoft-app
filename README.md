@@ -1,5 +1,5 @@
-# YSoft app
-Solution of assignment for internship in YSoft
+# Y Soft app
+Solution of assignment for joining Y Soft ARUR program.
 
 ## Create Python 3 application
 
